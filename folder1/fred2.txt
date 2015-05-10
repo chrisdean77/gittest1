@@ -1,2 +1,2 @@
-This is fred2
+This is fred2 (conflict)
 
