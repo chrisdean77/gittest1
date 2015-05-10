@@ -1,2 +1,2 @@
-This is fred2 (conflict)
-
+This is fred2 (mod1)
+This is mod1
